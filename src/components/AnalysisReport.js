@@ -4,7 +4,7 @@ import React from 'react';
 function AnalysisReport({ analysis }) {
   return (
     <div>
-      <h2>Analysis Report</h2>
+      <h2>Competitor Analysis</h2>
       <pre>{analysis}</pre>
     </div>
   );
